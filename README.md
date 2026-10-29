@@ -1,5 +1,7 @@
 # Аэтерный Базар
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Карточная экономическая стратегия в фэнтези-сеттинге. Ты играешь трейдером на рынке редких товаров, где твои крупные сделки влияют на цены.
 
 ## Особенности
@@ -72,3 +74,8 @@ python tests/test_ui_simulation.py  # Симуляция UI взаимодейс
 
 MIT
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
